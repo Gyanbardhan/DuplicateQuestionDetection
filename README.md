@@ -9,7 +9,7 @@ In this project, we aim to classify pairs of questions as duplicates or non-dupl
 ## Notebooks
 
 - Bag of Words Model: [Notebook implementing the BoW model.](https://www.kaggle.com/code/gyanbardhan/bow-00)
-- TF-IDF Model: [Notebook implementing the TF-IDF model]().
+- TF-IDF Model: [Notebook implementing the TF-IDF model](https://github.com/Gyanbardhan/Duplicate-Question/blob/main/TF-IDF.ipynb).
 
 ## Datasets
 We use the Quora Question Pairs dataset, which contains pairs of questions and a label indicating whether the questions are duplicates or not.
