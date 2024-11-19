@@ -1,4 +1,7 @@
 # Duplicate Question Detection Using NLP and Transformers
+
+[Detailed Report](https://github.com/Gyanbardhan/DuplicateQuestionDetection/blob/main/Report.pdf)
+
 ## Description
 This project addresses the challenge of detecting duplicate questions on online platforms using advanced NLP techniques and machine learning models. By identifying similar questions, we enhance the user experience by reducing repetitive content and making it easier to find high-quality answers quickly. The solution integrates two distinct approaches for classification: Bag of Words (BoW) with Random Forest and DistilBERT, each offering unique insights into the semantic relationships between questions.
 ## Project Overview
